@@ -68,6 +68,16 @@ For this preview, use the OneDrive sync app version 19.002.0121.0008 or later on
 
 - If a label includes encryption, Microsoft Cloud App Security isn't able to read the label information for the files in SharePoint.
 
+## Update Existing Module
+
+If you have downloaded the module from Powershell gallery, ensure that you're up to date with the latest sharepoint online management shell. If the module was downloaded from microsoft download center please proceed to the next step
+
+1. Update the module by running the below cmdlet
+
+    ```PowerShell
+    Update-Module -Name Microsoft.Online.SharePoint.PowerShell
+    ```
+
 ## Prepare the SharePoint Online Management Shell for the preview
 
 Before you enable the preview, ensure that you're running the latest SharePoint Online Management Shell. If you already have the latest version, you can go ahead and enable the preview.
@@ -95,6 +105,7 @@ To enable the preview, use the Set-SPOTenant cmdlet:
     ```PowerShell
     Set-SPOTenant -EnableAIPIntegration $true  
     ```
+    
 
 ## Schedule roll-out after you create or change a sensitivity label
 
