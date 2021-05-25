@@ -224,8 +224,8 @@ sections:
           | Outlook on the web | Yes | Yes                |
           | Outlook for Windows| Yes | Yes                |
           | Outlook for Mac    | Yes | Yes                |
-          | Outlook for Android| Yes | No                 |
-          | Outlook for iOS    | Yes | No                 |
+          | Outlook for Android| Yes | Yes                |
+          | Outlook for iOS    | Yes | Yes                 |
           |
           
           There are currently two known limitations:
