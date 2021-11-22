@@ -37,6 +37,7 @@ Any of these licenses gives you access to Microsoft 365 Defender features via th
 
 - Microsoft 365 E5 or A5
 - Microsoft 365 E3 with the Microsoft 365 E5 Security add-on
+- Microsoft 365 E3 with the Enterprise Mobility + Security E5 add-on
 - Microsoft 365 A3 with the Microsoft 365 A5 Security add-on
 - Windows 10 Enterprise E5 or A5
 - Windows 11 Enterprise E5 or A5
@@ -46,6 +47,7 @@ Any of these licenses gives you access to Microsoft 365 Defender features via th
 - Microsoft Defender for Identity 
 - Microsoft Defender for Cloud Apps
 - Defender for Office 365 (Plan 2)
+- Microsoft Defender for Endpoint is available as an add-on to Microsoft 365 Business Premium when purchased from a [Microsoft Cloud Solution Provider](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
 For more information, [view the Microsoft 365 Enterprise service plans](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise).
 
