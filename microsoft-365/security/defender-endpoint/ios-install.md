@@ -127,19 +127,6 @@ Next, configure the supervised mode for Defender for Endpoint app through an App
 
 1. On the **Review + create** page, when you're done, choose **Create**. The new profile is displayed in the list of configuration profiles.
 
-1. Next, for enhanced Anti-phishing capabilities, you can deploy a custom profile on the supervised iOS devices. Follow the steps below:
-
-    - Download the config profile from [https://aka.ms/mdeiosprofilesupervised](https://aka.ms/mdeiosprofilesupervised)
-    - Navigate to **Devices** -> **iOS/iPadOS** -> **Configuration profiles** -> **Create Profile**
-
-    > [!div class="mx-imgBorder"]
-    > ![Image of Microsoft Endpoint Manager Admin Center7.](images/ios-deploy-7.png)
-    
-    - Provide a name of the profile. When prompted to import a Configuration profile file, select the one downloaded from the previous step.
-    - In the **Assignment** section, select the device group to which you want to apply this profile. As a best practice, this should be applied to all managed iOS devices. Select **Next**.
-    - On the **Review + create** page, when you're done, choose **Create**. The new profile is displayed in the list of configuration profiles.
-
-
 ## Auto-Onboarding of VPN profile (Simplified Onboarding)
 
 For unsupervised devices, a VPN is used in order to provide the Web Protection feature. This is not a regular VPN and is a local/self-looping VPN that does not take traffic outside the device.
