@@ -102,7 +102,7 @@ You won't be able to choose a status for Secure Score recommended actions in the
 
 #### Completed recommended actions
 
-recommended actions have a "completed" status once all possible points for the recommended action have been achieved. Completed recommended actions are confirmed though Microsoft data, and you can't change the status.
+Recommended actions have a "completed" status once all possible points for the recommended action have been achieved. Completed recommended actions are confirmed though Microsoft data, and you can't change the status.
 
 ### Assess information and review user impact
 
@@ -110,7 +110,7 @@ The section called **At a glance** will tell you the category, attacks it can pr
 
 **User impact** is what the users will experience if the recommended action is enacted, and the **Users affected** are the people who will be impacted.
 
-### Implement the recommended action
+### Implement he recommended action
 
 The **Implementation** section shows any prerequisites, step-by-step next steps to complete the recommended action, the current implementation status of the recommended action, and any learn more links.
 
