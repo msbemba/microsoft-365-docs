@@ -57,6 +57,9 @@ There are four different ways to find and take auto investigation actions:
    - Select the Approve pending action option to initiate a pending action.
    - Select the Reject pending action option to prevent a pending action from being taken.
 
+> [!NOTE]
+> Pending actions time out after awaiting approval for one week.
+
 ## Action center
 
 1. In the Microsoft 365 Defender portal at <https://security.microsoft.com>, go to the **Action center** page by selecting **Action center**. To go directly to the **Action center** page, use <https://security.microsoft.com/action-center/pending>.
