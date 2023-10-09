@@ -60,9 +60,7 @@ MFA is an important first step in securing your company, and security defaults m
 
 1. Go to the Azure portal ([https://portal.azure.com/](https://portal.azure.com/)) and sign in.
 
-2. Under **Manage Azure Active Directory**, select **View**.
-
-   :::image type="content" source="../security/defender-business/media/mdb-manage-azuread.png" alt-text="Screenshot showing the VIew button under Manage Azure Active Directory." lightbox="../security/defender-business/media/mdb-manage-azuread.png":::
+2. Select **Microsoft Entra ID**
 
 3. In the navigation pane, select **Properties**, and then select **Manage security defaults**.
 
